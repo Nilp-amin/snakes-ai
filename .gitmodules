@@ -1,0 +1,3 @@
+[submodule "snakes"]
+	path = snakes
+	url = git@github.com:Nilp-amin/snakes.git
